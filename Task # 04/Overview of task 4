@@ -1,0 +1,15 @@
+🏥 Task 04: Insurance Claim Amount Prediction
+
+🎯 Objective:
+To predict the medical insurance cost of a person based on their personal features.
+
+🛠️ What We Did:
+    - Cleaned the dataset and encoded categorical values
+    - Visualized relationships between age, bmi, and charges
+    - Trained a Linear Regression model
+    - Evaluated model using MAE and RMSE
+
+📈 Results:
+    - MAE: 4186.508
+    - RMSE: 5799.587
+    - Smoking and BMI were strongest predictors of charges
