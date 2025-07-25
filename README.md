@@ -1,2 +1,3 @@
 # Developershub-data-science-internship
-A collection of machine learning and data analysis tasks completed during my Data Science &amp; Analytics Internship at DevelopersHub Corporation. 
+A hands-on data science internship project repository at DevelopersHub Corporation. Includes real-world analytics, machine learning, and model evaluation tasks using Python, pandas, scikit-learn, and visualization tools.
+
