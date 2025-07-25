@@ -1,0 +1,15 @@
+🔄 Task 03: Customer Churn Prediction
+
+🎯 Objective:
+To identify customers who are likely to leave the bank (churn).
+
+🛠️ What We Did:
+    - Cleaned the Churn Modelling dataset
+    - Encoded `Gender`, `Geography` using LabelEncoder & OneHotEncoding
+    - Trained a Random Forest Classifier
+    - Visualized feature importance
+
+📈 Insights:
+    - Model accuracy: 86%
+    - Key churn indicators: Age, Balance, IsActiveMember
+    - Random Forest gave better results than Logistic Regression
