@@ -20,9 +20,13 @@ This repository includes 5 real-world data science tasks focused on data cleanin
 | Task 05  | Personal Loan Acceptance Prediction    | Classification               | Logistic Regression    |
 
 Each task is organized in a separate folder containing:
+
     - Jupyter Notebook (`.ipynb`)
+    
     - Cleaned dataset used
+    
     - Model file (`.pkl`) 
+    
     - A task-specific `README.md` with details & results 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -30,12 +34,17 @@ Each task is organized in a separate folder containing:
 
 ## 🧠 Skills & Tools Used
 
-    - **Programming**: Python (Jupyter Notebook)
-    - **Libraries**: pandas, numpy, seaborn, matplotlib, scikit-learn
-    - **ML Techniques**: Classification, Regression, Model Evaluation
-    - **Techniques**: Label Encoding, One-Hot Encoding, Feature Importance
-    - **Evaluation Metrics**: Accuracy, Confusion Matrix, MAE, RMSE
-    - **Version Control**: GitHub
+    - Programming: Python (Jupyter Notebook)
+    
+    - Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
+    
+    - ML Techniques: Classification, Regression, Model Evaluation
+    
+    - Techniques: Label Encoding, One-Hot Encoding, Feature Importance
+    
+    - Evaluation Metrics: Accuracy, Confusion Matrix, MAE, RMSE
+    
+    - Version Control: GitHub
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,8 +55,7 @@ Each task is organized in a separate folder containing:
 📚 Business Data Analytics Student – COMSATS University  
 📍 Islamabad, Pakistan  
 📫 Email: muhammadusmanfakhar2020@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/yourusername) | 💼 [Fiverr](#)
-
+🌐 LinkedIn: www.linkedin.com/in/muhammad-usman-fakhar-a02b8a318
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
