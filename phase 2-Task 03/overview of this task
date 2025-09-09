@@ -1,0 +1,34 @@
+Task 5: Global Superstore Interactive Dashboard
+
+🎯 Objective
+Build an interactive dashboard for analyzing sales, profit, and segment-wise performance.
+
+📂 Dataset
+  - Source: Kaggle – Global Superstore Dataset
+  - Features: Order Date, Region, Category, Sub-Category, Sales, Profit, Discount, Customer Name, etc.
+
+🛠️ Steps Performed
+  1. Data cleaning & preprocessing  
+  2. Built **Streamlit dashboard** with sidebar filters (Region, Category, Sub-Category)  
+  3. KPIs displayed: Total Sales, Total Profit, Avg. Discount  
+  4. Visualizations created:
+     - Sales by Sub-Category (Bar chart)  
+     - Profit Share by Region (Pie chart)  
+     - Top 5 Customers by Sales (Bar chart)  
+  5. Preview of filtered dataset included  
+
+📊 Results
+  - Dashboard provides interactive filtering and real-time insights  
+  - Helps business users track KPIs and customer trends  
+
+🚀 Skills Gained
+  - Business Intelligence (BI) dashboarding  
+  - Data storytelling & visualization  
+  - Streamlit app development  
+  - KPI-driven analysis  
+
+▶️ Run Instructions
+  ```bash
+  streamlit run app.py
+  ```cmd
+  python -m streamlit run (app.py) use location for this bracket
