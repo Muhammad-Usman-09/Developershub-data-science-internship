@@ -11,6 +11,7 @@ This repository includes 5 real-world data science tasks focused on data cleanin
 
 ## 📁 Internship Tasks Overview
 
+🔹 Phase 1: Core ML Internship (July–Aug 2025)
 | Task No. | Title                                  | Focus Area                   | ML Technique           |
 |----------|----------------------------------------|------------------------------|------------------------|
 | Task 01  | Iris Data Visualization                | EDA & Visualization          | No ML (only EDA)      |
@@ -18,6 +19,18 @@ This repository includes 5 real-world data science tasks focused on data cleanin
 | Task 03  | Customer Churn Prediction              | Classification + Feature Imp | Random Forest          |
 | Task 04  | Insurance Cost Prediction              | Regression                   | Linear Regression      |
 | Task 05  | Personal Loan Acceptance Prediction    | Classification               | Logistic Regression    |
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔹 Phase 2: Advanced Internship (Aug–Sept 2025)
+| Task No. | Title                                  | Focus Area                   | ML Technique           |
+|----------|----------------------------------------|------------------------------|------------------------|
+| Task 01  | Term Deposit Subscription Prediction   | Classification + XAI         | Logistic, Random Forest, XGBoost + SHAP   |
+| Task 02  | Customer Segmentation                  | Unsupervised Learning        | K-Means, PCA Visualization |
+| Task 03  | Global Superstore Dashboard            | Business Intelligence (BI)   | Streamlit + Plotly          |
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Each task is organized in a separate folder containing:
 
@@ -61,7 +74,8 @@ Each task is organized in a separate folder containing:
 
 ## ✅ Submission Details
 
-- 📅 **Deadline**: 14th August 2025  
+- 📅 Phase 1 Deadline: 14th August 2025
+- 📅 Phase 2 Deadline: 9th September 2025
 - 🏢 **Organization**: DevelopersHub Corporation  
 - 📤 **Submitted to**: GitHub + Google Classroom  
 
