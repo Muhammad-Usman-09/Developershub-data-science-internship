@@ -1,1 +1,28 @@
-dad
+📝 Task 1 README.md
+
+Task 1: Term Deposit Subscription Prediction (Bank Marketing Dataset)
+
+🎯 Objective
+Predict whether a bank customer will subscribe to a term deposit after a marketing campaign.
+
+📂 Dataset
+  - Source: UCI Machine Learning Repository – Bank Marketing Dataset
+  - Features: Age, Job, Marital Status, Education, Balance, Previous Outcome, etc.
+  - Target: `y` (Subscribed = yes/no)
+
+🛠️ Steps Performed
+  1. Loaded and explored dataset  
+  2. Encoded categorical features  
+  3. Built classification models: Logistic Regression, Random Forest, XGBoost  
+  4. Evaluated using Confusion Matrix, F1-Score, and ROC Curve  
+  5. Applied SHAP for Explainable AI (model interpretability)
+
+📊 Results
+  - Random Forest achieved best accuracy & F1-score  
+  - SHAP analysis identified **previous outcome**, **contact type**, and **duration** as most important features  
+
+🚀 Skills Gained
+  - Classification modeling  
+  - Feature encoding  
+  - Explainable AI (SHAP)  
+  - Customer behavior analysis
