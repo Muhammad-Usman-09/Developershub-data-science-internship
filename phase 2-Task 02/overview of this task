@@ -1,0 +1,28 @@
+Task 2: Customer Segmentation Using K-Means
+
+🎯 Objective
+Cluster customers based on spending habits and propose marketing strategies for each group.
+
+📂 Dataset
+  - Source: Mall Customers Dataset
+  - Features: CustomerID, Gender, Age, Annual Income, Spending Score
+
+🛠️ Steps Performed
+  1. Data Cleaning & EDA  
+  2. K-Means Clustering applied (optimal clusters selected using Elbow Method)  
+  3. PCA used for dimensionality reduction & visualization  
+  4. Identified 4 customer segments:
+     - High Income, High Spending  
+     - High Income, Low Spending  
+     - Low Income, High Spending  
+     - Low Income, Low Spending  
+
+📊 Results
+  - Segments visualized with PCA scatter plot  
+  - Marketing strategies proposed for each group  
+
+🚀 Skills Gained
+  - Unsupervised learning (K-Means)  
+  - Dimensionality reduction (PCA)  
+  - Customer segmentation  
+  - Data-driven strategy development
